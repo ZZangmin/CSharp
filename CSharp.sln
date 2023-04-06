@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_0001_InterfaceDivide", "CSharp_0001_InterfaceDivide", "{31C9EA56-254A-4317-8810-B0B6B4119E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_0001_InterfaceDivide", "CSharp_0001_InterfaceDivide\CSharp_0001_InterfaceDivide.csproj", "{30D75A2C-0E4E-440D-B718-70FE813E0F62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_0002_", "CSharp_0002_", "{5CC450F4-A9C8-4709-B392-1DED1C233129}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_0003_", "CSharp_0003_", "{6357CEEC-32CC-4373-8F87-5BAF70179294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D75A2C-0E4E-440D-B718-70FE813E0F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D75A2C-0E4E-440D-B718-70FE813E0F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D75A2C-0E4E-440D-B718-70FE813E0F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D75A2C-0E4E-440D-B718-70FE813E0F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{30D75A2C-0E4E-440D-B718-70FE813E0F62} = {31C9EA56-254A-4317-8810-B0B6B4119E1D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32695FA0-4E74-44ED-B5FC-896C8CE5D21A}
+	EndGlobalSection
+EndGlobal
